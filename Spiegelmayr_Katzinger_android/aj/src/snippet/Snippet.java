@@ -7,6 +7,7 @@ public class Snippet {
             System.out.print ("Hello, I am a method.");
             System.out.print("I am a smart method and I love cake.");
         }
+System.out.println("You got git gudded, please call mr kurz");
 	}
 }
 
